@@ -1,0 +1,12 @@
+state,latitude,longitude,stars,open,alcohol,noiseLevel,attire,priceRange,delivery,ambience,parking,dietaryRestrictions,waiterService,smoking,caters,recommendedFor,goodForGroups,goodForKids,outdoorSeating
+AZ,1,1,2.5,FALSE,none,very_loud,casual,1,TRUE,[],['lot'],,TRUE,yes,TRUE,['latenight'],TRUE,FALSE,TRUE
+EDH,5,5,4.5,TRUE,full_bar,,casual,2,FALSE,[],[],,TRUE,,,[],FALSE,,FALSE
+BW,4,5,2.5,TRUE,full_bar,average,dressy,3,,[],[],,,outdoor,,[],TRUE,,TRUE
+PA,2,2,2.5,TRUE,none,quiet,casual,1,TRUE,[],[],,TRUE,,,,TRUE,,FALSE
+QC,3,2,3.5,TRUE,none,quiet,casual,3,FALSE,[],,,FALSE,,,[],FALSE,,FALSE
+NC,1,2,3.5,FALSE,full_bar,,casual,3,FALSE,,['street'],,FALSE,,,"['lunch', 'dinner']",TRUE,,TRUE
+AZ,1,1,2.5,FALSE,none,,casual,1,FALSE,,[],,TRUE,,,[],TRUE,,TRUE
+QC,3,2,4.5,TRUE,beer_and_wine,,casual,2,FALSE,,[],,,,,[],FALSE,,FALSE
+EDH,5,5,3.5,TRUE,full_bar,average,,1,,,[],,,no,,,TRUE,,FALSE
+NV,1,1,1,TRUE,none,very_loud,,3,TRUE,,[],,TRUE,,,[],FALSE,,FALSE
+NC,1,2,3,FALSE,full_bar,,dressy,2,,,[],,FALSE,,,[],TRUE,,TRUE

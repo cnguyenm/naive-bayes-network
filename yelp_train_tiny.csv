@@ -1,0 +1,24 @@
+state,latitude,longitude,stars,open,alcohol,noiseLevel,attire,priceRange,delivery,ambience,parking,dietaryRestrictions,waiterService,smoking,caters,recommendedFor,goodForGroups,goodForKids,outdoorSeating
+AZ,1,1,2.5,False,none,very_loud,casual,1.0,True,[],['lot'],,True,yes,True,['latenight'],True,False,True
+IL,2,2,2.0,False,full_bar,loud,casual,1.0,True,['casual'],[],,True,outdoor,,['latenight'],True,,True
+EDH,5,5,4.5,True,full_bar,quiet,casual,3.0,False,[],[],['vegan'],True,,,['dessert'],True,,False
+EDH,5,5,3.5,True,full_bar,quiet,casual,2.0,True,[],[],[],True,,,[],True,,False
+NV,1,1,3.0,True,full_bar,loud,casual,2.0,False,[],['garage'],,True,,False,"['lunch', 'breakfast']",True,False,False
+NC,1,2,4.0,True,full_bar,,casual,2.0,False,[],[],,True,no,,[],True,,False
+PA,2,2,3.5,True,full_bar,average,casual,1.0,,[],[],,False,yes,,[],True,,False
+IL,2,2,3.5,True,none,average,casual,1.0,False,[],['lot'],,True,,False,['lunch'],True,True,False
+NC,1,2,4.5,True,beer_and_wine,average,casual,1.0,False,['divey'],['lot'],,True,,True,"['lunch', 'dinner']",True,,False
+WI,3,2,3.5,False,full_bar,average,casual,2.0,False,['trendy'],"['garage', 'street']",,True,,True,"['lunch', 'dinner']",True,,True
+QC,3,2,3.5,True,beer_and_wine,average,casual,2.0,False,[],[],,False,,False,[],True,,False
+NC,1,2,2.5,True,none,average,casual,1.0,False,[],[],,True,,False,[],True,,False
+AZ,1,1,4.0,False,full_bar,quiet,casual,1.0,False,[],['lot'],,False,,False,"['lunch', 'breakfast']",True,True,True
+NV,1,1,1.0,True,none,quiet,casual,2.0,True,[],['street'],,False,,True,[],True,,False
+QC,3,2,3.5,False,none,average,casual,1.0,False,['casual'],['street'],,False,,False,"['lunch', 'dinner']",True,,False
+IL,2,2,3.5,True,none,quiet,casual,1.0,False,[],[],,False,,True,"['lunch', 'dinner']",False,,False
+IL,2,2,3.5,False,none,loud,casual,1.0,True,[],['street'],,True,,True,"['lunch', 'dinner']",True,,False
+IL,2,2,3.5,True,none,quiet,casual,1.0,True,[],['lot'],,False,,True,[],True,,False
+IL,2,2,3.5,True,none,average,casual,1.0,False,"['divey', 'casual']",['lot'],,True,,False,"['lunch', 'dinner']",True,,False
+AZ,1,1,4.0,True,none,average,casual,1.0,False,['casual'],['lot'],,False,,True,"['lunch', 'dinner']",True,,False
+AZ,1,1,2.0,True,none,quiet,casual,2.0,True,[],['lot'],,False,,,[],False,,True
+ON,3,2,3.5,True,beer_and_wine,average,casual,2.0,False,[],[],,True,,False,[],True,,True
+PA,2,2,3.5,True,none,average,casual,1.0,True,['divey'],[],,False,,False,[],True,,False
